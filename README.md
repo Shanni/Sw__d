@@ -1,8 +1,8 @@
-# Basic Sample Hardhat Project
+# FUN Project on web3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project create smart contract and NFT with Hardhat. 
 
-Try running some of the following tasks:
+Some useful commands:
 
 ```shell
 npx hardhat accounts
