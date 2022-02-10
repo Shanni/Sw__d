@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Nebulas",
+      "value" : "Two"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Grey"
+    } ],
+    "description" : "The world's most beautiful nebulas.",
+    "image" : "https://ipfs.infura.io:5001/api/v0/cat?arg=Qmdwe1gBBBt2iuBDzanU5g6wXqAxNWUVgjPhoDJgqHGbLA",
+    "name" : "Cosmos"
+}
